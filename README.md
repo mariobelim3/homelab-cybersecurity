@@ -65,7 +65,7 @@ homelab-cybersecurity/
 
 ## 📝 CTF Writeups
 
-### TryHackMe
+### TryHackMe — Pré-segurança
 
 | Sala | Categoria | Dificuldade | Data |
 |---|---|---|---|
@@ -73,6 +73,12 @@ homelab-cybersecurity/
 | [Offensive Security Intro](./ctf-writeups/tryhackme/pre-security/02-offensive-security-intro.md) | Red Team | Easy | Abril 2026 |
 | [Defensive Security Intro](./ctf-writeups/tryhackme/pre-security/03-defensive-security-intro.md) | Blue Team | Info | Abril 2026 |
 | [Experience Cyber Security](./ctf-writeups/tryhackme/pre-security/04-experience-cyber-security.md) | Overview | Easy | Abril 2026 |
+
+### TryHackMe — Linux Fundamentals
+
+| Sala | Categoria | Dificuldade | Data |
+|---|---|---|---|
+| [Linux Fundamentals Part 1](./ctf-writeups/tryhackme/linux-fundamentals/01-linux-fundamentals-part1.md) | Linux | Info | Abril 2026 |
 
 ---
 
@@ -91,6 +97,7 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 ## 📚 Formação Complementar
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
+- 📜 Google Cybersecurity Professional Certificate — Coursera *(planeado)*
 - 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
