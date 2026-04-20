@@ -1,9 +1,10 @@
 # 🛡️ Home Lab — Cibersegurança Red & Blue Team
 
-![Status](https://img.shields.io/badge/status-em%20construção-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/status-em%20progresso-blue?style=flat-square)
 ![Red Team](https://img.shields.io/badge/Red%20Team-Kali%20Linux-red?style=flat-square&logo=kalilinux&logoColor=white)
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-Wazuh%20SIEM-blue?style=flat-square)
 ![Virtualização](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-em%20progresso-red?style=flat-square&logo=tryhackme&logoColor=white)
 ![Licença](https://img.shields.io/badge/uso-pessoal%20%2F%20educacional-green?style=flat-square)
 
 > Repositório de documentação do meu home lab pessoal de cibersegurança.
@@ -58,7 +59,20 @@ homelab-cybersecurity/
 - [ ] **Fase 2** — Primeiro ataque controlado com Metasploit
 - [ ] **Fase 3** — Instalação e configuração do Wazuh SIEM
 - [ ] **Fase 4** — Integração Red/Blue (deteção de ataques em tempo real)
-- [ ] **Fase 5** — CTF Writeups (TryHackMe / HackTheBox)
+- [x] **Fase 5** — CTF Writeups (TryHackMe / HackTheBox) ← *em progresso*
+
+---
+
+## 📝 CTF Writeups
+
+### TryHackMe
+
+| Sala | Categoria | Dificuldade | Data |
+|---|---|---|---|
+| [What is Networking?](./ctf-writeups/tryhackme/pre-security/01-what-is-networking.md) | Fundamentos | Info | Abril 2026 |
+| [Offensive Security Intro](./ctf-writeups/tryhackme/pre-security/02-offensive-security-intro.md) | Red Team | Easy | Abril 2026 |
+| [Defensive Security Intro](./ctf-writeups/tryhackme/pre-security/03-defensive-security-intro.md) | Blue Team | Info | Abril 2026 |
+| [Experience Cyber Security](./ctf-writeups/tryhackme/pre-security/04-experience-cyber-security.md) | Overview | Easy | Abril 2026 |
 
 ---
 
@@ -80,6 +94,14 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 - 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
+
+---
+
+## 🏆 Badges TryHackMe
+
+| Badge | Descrição | Data |
+|---|---|---|
+| First Four | Completar as primeiras 4 atividades | Abril 2026 |
 
 ---
 
