@@ -1,57 +1,88 @@
-# Home Lab — Cibersegurança Red & Blue Team
+# 🛡️ Home Lab — Cibersegurança Red & Blue Team
 
-Repositório de documentação do meu home lab pessoal de cibersegurança.
-Construído para praticar técnicas ofensivas (Red Team) e defensivas (Blue Team),
-com o objetivo de aprofundar conhecimentos para o mestrado em cibersegurança.
+![Status](https://img.shields.io/badge/status-em%20construção-yellow?style=flat-square)
+![Red Team](https://img.shields.io/badge/Red%20Team-Kali%20Linux-red?style=flat-square&logo=kalilinux&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-Wazuh%20SIEM-blue?style=flat-square)
+![Virtualização](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Licença](https://img.shields.io/badge/uso-pessoal%20%2F%20educacional-green?style=flat-square)
 
-## Arquitetura do Lab
+> Repositório de documentação do meu home lab pessoal de cibersegurança.
+> Construído para praticar técnicas ofensivas (Red Team) e defensivas (Blue Team),
+> com o objetivo de aprofundar conhecimentos para o mestrado em cibersegurança.
+
+---
+
+## 🗺️ Arquitetura do Lab
 
 ```
-PC Principal (Windows + VirtualBox)
-├── VM Kali Linux          → máquina de ataque (Red Team)
-├── VM Metasploitable 2    → alvo vulnerável
-├── VM Ubuntu Server       → servidor alvo adicional
-└── VM Wazuh               → SIEM - monitorização (Blue Team)
+PC Principal (Windows + VirtualBox)          PC Extra
+├── 🔴 Kali Linux      → máquina de ataque   └── Alvo físico / VMs adicionais
+├── 🎯 Metasploitable 2 → ambiente vulnerável
+├── 🖥️  Ubuntu Server   → servidor alvo
+└── 🔵 Wazuh SIEM      → monitorização
 
-PC Extra
-└── Alvo físico real / VMs adicionais
+           Rede NAT Isolada: 10.0.2.0/24
+     ⚠️  Nenhum tráfego malicioso sai para a internet
 ```
 
-Todas as VMs estão numa rede NAT isolada (10.0.2.0/24).
-Nenhum tráfego malicioso sai para a rede doméstica.
+---
 
-## Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
 ```
 homelab-cybersecurity/
-├── setup/          → instalação e configuração de cada VM
-├── attacks/        → documentação de ataques controlados
-├── defense/        → alertas SIEM e estratégias defensivas
-└── ctf-writeups/   → soluções de desafios CTF
+├── 📂 setup/          → instalação e configuração de cada VM
+├── 📂 attacks/        → documentação de ataques controlados
+├── 📂 defense/        → alertas SIEM e estratégias defensivas
+└── 📂 ctf-writeups/   → soluções de desafios CTF
 ```
 
-## Tecnologias Utilizadas
+---
 
-- VirtualBox — virtualização
-- Kali Linux — testes de penetração
-- Metasploitable 2 — ambiente vulnerável
-- Wazuh — SIEM open source
-- Metasploit Framework — exploração
-- Nmap — reconhecimento de rede
+## 🧰 Tecnologias
 
-## Estado Atual
-
-- [ ] Fase 1 — Configuração do ambiente (VirtualBox + VMs base)
-- [ ] Fase 2 — Primeiro ataque controlado com Metasploit
-- [ ] Fase 3 — Instalação e configuração do Wazuh SIEM
-- [ ] Fase 4 — Integração Red/Blue (deteção de ataques em tempo real)
-- [ ] Fase 5 — CTF Writeups (TryHackMe / HackTheBox)
-
-## Objetivo
-
-Documentar o processo de aprendizagem em cibersegurança,
-com foco em Red Team (pentest) e Blue Team (monitorização e defesa),
-preparando o portfólio para candidatura ao mestrado em cibersegurança.
+| Ferramenta | Categoria | Uso |
+|---|---|---|
+| VirtualBox | Virtualização | Correr todas as VMs |
+| Kali Linux | Red Team | Ataques e pentest |
+| Metasploitable 2 | Alvo | Ambiente vulnerável para praticar |
+| Metasploit Framework | Exploração | Execução de exploits |
+| Nmap | Reconhecimento | Scan de portas e serviços |
+| Wazuh | Blue Team / SIEM | Monitorização e deteção |
 
 ---
-*Ambiente 100% isolado. Todos os ataques são realizados em máquinas próprias.*
+
+## 🚦 Estado Atual
+
+- [ ] **Fase 1** — Configuração do ambiente (VirtualBox + VMs base)
+- [ ] **Fase 2** — Primeiro ataque controlado com Metasploit
+- [ ] **Fase 3** — Instalação e configuração do Wazuh SIEM
+- [ ] **Fase 4** — Integração Red/Blue (deteção de ataques em tempo real)
+- [ ] **Fase 5** — CTF Writeups (TryHackMe / HackTheBox)
+
+---
+
+## 🎯 Objetivo
+
+Documentar o processo de aprendizagem em cibersegurança, com foco em:
+
+- 🔴 **Red Team** — reconhecimento, exploração de vulnerabilidades, pós-exploração
+- 🔵 **Blue Team** — monitorização de logs, deteção de intrusões, resposta a incidentes
+- 🟣 **Purple Team** — usar conhecimento ofensivo para melhorar a defesa
+
+Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança — Universidade de Aveiro**.
+
+---
+
+## 📚 Formação Complementar
+
+- 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
+- 📜 Google Cybersecurity Professional Certificate — Coursera *(em curso)*
+- 📜 CS50 SQL — Harvard / edX *(planeado)*
+- 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
+- 💼 Estágio — IA.SAÚDE *(planeado)*
+
+---
+
+> ⚠️ **Aviso:** Ambiente 100% isolado. Todos os ataques são realizados exclusivamente
+> em máquinas próprias, para fins educacionais.
