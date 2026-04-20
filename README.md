@@ -77,7 +77,6 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 ## 📚 Formação Complementar
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
-- 📜 Google Cybersecurity Professional Certificate — Coursera *(em curso)*
 - 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
