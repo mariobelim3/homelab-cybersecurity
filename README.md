@@ -58,9 +58,10 @@ homelab-cybersecurity/
 - [x] **Fase 1** — Configuração do ambiente (VirtualBox + VMs base) ✅
 - [x] **Fase 2** — Primeiro ataque controlado com Metasploit ✅
 - [x] **Fase 3** — Pós-exploração (root, shadow, persistência) ✅
-- [ ] **Fase 4** — Instalação e configuração do Wazuh SIEM
-- [ ] **Fase 5** — Integração Red/Blue (deteção de ataques em tempo real)
-- [x] **Fase 6** — CTF Writeups (TryHackMe) ← *em progresso*
+- [x] **Fase 4** — SSH com credenciais fracas + escalada de privilégios ✅
+- [ ] **Fase 5** — Instalação e configuração do Wazuh SIEM
+- [ ] **Fase 6** — Integração Red/Blue (deteção de ataques em tempo real)
+- [x] **Fase 7** — CTF Writeups (TryHackMe) ← *em progresso*
 
 ---
 
@@ -70,6 +71,7 @@ homelab-cybersecurity/
 |---|---|---|---|---|
 | 01 | [vsftpd 2.3.4 Backdoor](./attacks/01-vsftpd-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
 | 02 | [Pós-Exploração](./attacks/02-pos-exploracao.md) | Metasploitable 2 | Persistência criada | Abril 2026 |
+| 03 | [SSH Credenciais Fracas](./attacks/03-ssh-credenciais-fracas.md) | Metasploitable 2 | Root via escalada | Abril 2026 |
 
 ---
 
@@ -107,7 +109,6 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 ## 📚 Formação Complementar
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
-- 📜 Google Cybersecurity Professional Certificate — Coursera *(planeado)*
 - 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
