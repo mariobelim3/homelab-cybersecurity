@@ -55,11 +55,21 @@ homelab-cybersecurity/
 
 ## 🚦 Estado Atual
 
-- [ ] **Fase 1** — Configuração do ambiente (VirtualBox + VMs base)
-- [ ] **Fase 2** — Primeiro ataque controlado com Metasploit
-- [ ] **Fase 3** — Instalação e configuração do Wazuh SIEM
-- [ ] **Fase 4** — Integração Red/Blue (deteção de ataques em tempo real)
-- [x] **Fase 5** — CTF Writeups (TryHackMe / HackTheBox) ← *em progresso*
+- [x] **Fase 1** — Configuração do ambiente (VirtualBox + VMs base) ✅
+- [x] **Fase 2** — Primeiro ataque controlado com Metasploit ✅
+- [x] **Fase 3** — Pós-exploração (root, shadow, persistência) ✅
+- [ ] **Fase 4** — Instalação e configuração do Wazuh SIEM
+- [ ] **Fase 5** — Integração Red/Blue (deteção de ataques em tempo real)
+- [x] **Fase 6** — CTF Writeups (TryHackMe) ← *em progresso*
+
+---
+
+## 🔴 Ataques Documentados
+
+| # | Ataque | Alvo | Resultado | Data |
+|---|---|---|---|---|
+| 01 | [vsftpd 2.3.4 Backdoor](./attacks/01-vsftpd-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
+| 02 | [Pós-Exploração](./attacks/02-pos-exploracao.md) | Metasploitable 2 | Persistência criada | Abril 2026 |
 
 ---
 
@@ -97,6 +107,7 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 ## 📚 Formação Complementar
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
+- 📜 Google Cybersecurity Professional Certificate — Coursera *(planeado)*
 - 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
