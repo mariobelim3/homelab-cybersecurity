@@ -5,6 +5,7 @@
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-Wazuh%20SIEM-blue?style=flat-square)
 ![Virtualização](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-em%20progresso-red?style=flat-square&logo=tryhackme&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
 ![Licença](https://img.shields.io/badge/uso-pessoal%20%2F%20educacional-green?style=flat-square)
 
 > Repositório de documentação do meu home lab pessoal de cibersegurança.
@@ -18,9 +19,9 @@
 ```
 PC Principal (Windows + VirtualBox)          PC Extra
 ├── 🔴 Kali Linux      → máquina de ataque   └── Alvo físico / VMs adicionais
+│   └── Agente Wazuh instalado
 ├── 🎯 Metasploitable 2 → ambiente vulnerável
-├── 🖥️  Ubuntu Server   → servidor alvo
-└── 🔵 Wazuh SIEM      → monitorização
+└── 🔵 Wazuh SIEM      → monitorização (192.168.1.140)
 
            Rede NAT Isolada: 10.0.2.0/24
      ⚠️  Nenhum tráfego malicioso sai para a internet
@@ -49,7 +50,8 @@ homelab-cybersecurity/
 | Metasploitable 2 | Alvo | Ambiente vulnerável para praticar |
 | Metasploit Framework | Exploração | Execução de exploits |
 | Nmap | Reconhecimento | Scan de portas e serviços |
-| Wazuh | Blue Team / SIEM | Monitorização e deteção |
+| Wazuh 4.14.5 | Blue Team / SIEM | Monitorização e deteção em tempo real |
+| MITRE ATT&CK | Threat Intelligence | Classificação de técnicas de ataque |
 
 ---
 
@@ -59,8 +61,8 @@ homelab-cybersecurity/
 - [x] **Fase 2** — Primeiro ataque controlado com Metasploit ✅
 - [x] **Fase 3** — Pós-exploração (root, shadow, persistência) ✅
 - [x] **Fase 4** — SSH com credenciais fracas + escalada de privilégios ✅
-- [ ] **Fase 5** — Instalação e configuração do Wazuh SIEM
-- [ ] **Fase 6** — Integração Red/Blue (deteção de ataques em tempo real)
+- [x] **Fase 5** — Instalação e configuração do Wazuh SIEM ✅
+- [x] **Fase 6** — Deteção de ataques em tempo real + MITRE ATT&CK ✅
 - [x] **Fase 7** — CTF Writeups (TryHackMe) ← *em progresso*
 
 ---
@@ -72,6 +74,29 @@ homelab-cybersecurity/
 | 01 | [vsftpd 2.3.4 Backdoor](./attacks/01-vsftpd-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
 | 02 | [Pós-Exploração](./attacks/02-pos-exploracao.md) | Metasploitable 2 | Persistência criada | Abril 2026 |
 | 03 | [SSH Credenciais Fracas](./attacks/03-ssh-credenciais-fracas.md) | Metasploitable 2 | Root via escalada | Abril 2026 |
+
+---
+
+## 🔵 Defesa e Monitorização
+
+| # | Documento | Descrição | Data |
+|---|---|---|---|
+| 01 | [Wazuh Setup](./setup/wazuh-setup.md) | Instalação e configuração do Wazuh SIEM | Abril 2026 |
+| 02 | [Deteções Blue Team](./defense/01-wazuh-detecoes.md) | Alertas gerados pelos ataques em tempo real | Abril 2026 |
+| 03 | [MITRE ATT&CK](./defense/02-mitre-attack.md) | Mapeamento das técnicas detetadas | Abril 2026 |
+
+---
+
+## 🟣 Purple Team — Resultados
+
+Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
+
+| Tática | Alertas | Técnica |
+|---|---|---|
+| Privilege Escalation | 12 | T1548.003 — Sudo and Sudo Caching |
+| Defense Evasion | 12 | T1078 — Valid Accounts |
+| Persistence | 6 | T1136 — Create Account |
+| Initial Access | 6 | T1078 — Valid Accounts |
 
 ---
 
