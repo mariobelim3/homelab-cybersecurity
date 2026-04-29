@@ -21,7 +21,7 @@ PC Principal (Windows + VirtualBox)          PC Extra
 ├── 🔴 Kali Linux      → máquina de ataque   └── Alvo físico / VMs adicionais
 │   └── Agente Wazuh instalado
 ├── 🎯 Metasploitable 2 → ambiente vulnerável
-└── 🔵 Wazuh SIEM      → monitorização (192.168.1.140)
+└── 🔵 Wazuh SIEM      → monitorização (192.168.1.x)
 
            Rede NAT Isolada: 10.0.2.0/24
      ⚠️  Nenhum tráfego malicioso sai para a internet
@@ -50,6 +50,7 @@ homelab-cybersecurity/
 | Metasploitable 2 | Alvo | Ambiente vulnerável para praticar |
 | Metasploit Framework | Exploração | Execução de exploits |
 | Nmap | Reconhecimento | Scan de portas e serviços |
+| John the Ripper | Password Cracking | Quebrar hashes de passwords |
 | Wazuh 4.14.5 | Blue Team / SIEM | Monitorização e deteção em tempo real |
 | MITRE ATT&CK | Threat Intelligence | Classificação de técnicas de ataque |
 
@@ -63,7 +64,8 @@ homelab-cybersecurity/
 - [x] **Fase 4** — SSH com credenciais fracas + escalada de privilégios ✅
 - [x] **Fase 5** — Instalação e configuração do Wazuh SIEM ✅
 - [x] **Fase 6** — Deteção de ataques em tempo real + MITRE ATT&CK ✅
-- [x] **Fase 7** — CTF Writeups (TryHackMe) ← *em progresso*
+- [x] **Fase 7** — Samba exploit + MySQL + Password Cracking ✅
+- [x] **Fase 8** — CTF Writeups (TryHackMe) ← *em progresso*
 
 ---
 
@@ -74,6 +76,9 @@ homelab-cybersecurity/
 | 01 | [vsftpd 2.3.4 Backdoor](./attacks/01-vsftpd-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
 | 02 | [Pós-Exploração](./attacks/02-pos-exploracao.md) | Metasploitable 2 | Persistência criada | Abril 2026 |
 | 03 | [SSH Credenciais Fracas](./attacks/03-ssh-credenciais-fracas.md) | Metasploitable 2 | Root via escalada | Abril 2026 |
+| 04 | [Samba Usermap Script](./attacks/04-samba-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
+| 05 | [MySQL sem Password](./attacks/05-mysql-sem-password.md) | Metasploitable 2 | Dados extraídos | Abril 2026 |
+| 06 | [Password Cracking](./attacks/06-password-cracking.md) | Metasploitable 2 | 6 passwords quebradas | Abril 2026 |
 
 ---
 
@@ -134,8 +139,8 @@ Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança —
 ## 📚 Formação Complementar
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
-- 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
+- 📜 CS50 SQL — Harvard / edX *(planeado)*
 - 💼 Estágio — IA.SAÚDE *(planeado)*
 
 ---
