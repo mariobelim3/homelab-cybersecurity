@@ -6,6 +6,7 @@
 ![Virtualização](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-em%20progresso-red?style=flat-square&logo=tryhackme&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-blue?style=flat-square&logo=cisco&logoColor=white)
 ![Licença](https://img.shields.io/badge/uso-pessoal%20%2F%20educacional-green?style=flat-square)
 
 > Repositório de documentação do meu home lab pessoal de cibersegurança.
@@ -36,7 +37,8 @@ homelab-cybersecurity/
 ├── 📂 setup/          → instalação e configuração de cada VM
 ├── 📂 attacks/        → documentação de ataques controlados
 ├── 📂 defense/        → alertas SIEM e estratégias defensivas
-└── 📂 ctf-writeups/   → soluções de desafios CTF
+├── 📂 ctf-writeups/   → soluções de desafios CTF
+└── 📂 courses/        → notas e resumos de cursos
 ```
 
 ---
@@ -67,7 +69,9 @@ homelab-cybersecurity/
 - [x] **Fase 6** — Deteção de ataques em tempo real + MITRE ATT&CK ✅
 - [x] **Fase 7** — Samba exploit + MySQL + Password Cracking ✅
 - [x] **Fase 8** — SQL Injection no DVWA ✅
-- [x] **Fase 9** — CTF Writeups (TryHackMe) ← *em progresso*
+- [ ] **Fase 9** — Command Execution + XSS no DVWA
+- [x] **Fase 10** — Cisco Introduction to Cybersecurity ← *em progresso*
+- [x] **Fase 11** — CTF Writeups (TryHackMe) ← *em progresso*
 
 ---
 
@@ -108,6 +112,19 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 ---
 
+## 📚 Formação Complementar
+
+| Curso | Plataforma | Estado |
+|---|---|---|
+| [Cisco Introduction to Cybersecurity](./courses/cisco-intro-cybersecurity.md) | Cisco NetAcad | 🔄 Em progresso |
+| CS50 SQL | Harvard / edX | 📅 Planeado |
+| CS50 Cybersecurity | Harvard / edX | 📅 Planeado |
+| 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Planeado |
+
+- 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
+
+---
+
 ## 📝 CTF Writeups
 
 ### TryHackMe — Pré-segurança
@@ -127,6 +144,14 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 ---
 
+## 🏆 Badges TryHackMe
+
+| Badge | Descrição | Data |
+|---|---|---|
+| First Four | Completar as primeiras 4 atividades | Abril 2026 |
+
+---
+
 ## 🎯 Objetivo
 
 Documentar o processo de aprendizagem em cibersegurança, com foco em:
@@ -136,23 +161,6 @@ Documentar o processo de aprendizagem em cibersegurança, com foco em:
 - 🟣 **Purple Team** — usar conhecimento ofensivo para melhorar a defesa
 
 Preparação do portfólio para candidatura ao **Mestrado em Cibersegurança — Universidade de Aveiro**.
-
----
-
-## 📚 Formação Complementar
-
-- 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
-- 📜 CS50 Cybersecurity — Harvard / edX *(planeado)*
-- 📜 CS50 SQL — Harvard / edX *(planeado)*
-- 💼 Estágio — IA.SAÚDE *(planeado)*
-
----
-
-## 🏆 Badges TryHackMe
-
-| Badge | Descrição | Data |
-|---|---|---|
-| First Four | Completar as primeiras 4 atividades | Abril 2026 |
 
 ---
 
