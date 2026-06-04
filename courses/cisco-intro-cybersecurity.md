@@ -16,7 +16,7 @@ importantes do mundo.
 
 ## Porquê este curso?
 
-- Reconhecimento da marca Cisco — muito valorizado em CVs
+- Reconhecimento da marca Cisco 
 - Cobre fundamentos teóricos que complementam o trabalho prático do lab
 - Gratuito e acessível online
 - Certificado oficial após conclusão
