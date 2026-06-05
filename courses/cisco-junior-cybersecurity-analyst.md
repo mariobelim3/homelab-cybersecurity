@@ -39,7 +39,7 @@ Cyber Threat Management
 
 | # | Curso | Estado | Certificado |
 |---|---|---|---|
-| 1 | Introduction to Cybersecurity | ✅ Concluído | *(adicionar link)* |
+| 1 | Introduction to Cybersecurity | ✅ Concluído | [Ver certificado](https://www.netacad.com/certificates/?issuanceId=1c85c3b5-3d7d-4dc7-a0fd-ab2f66257bba) |
 | 2 | Networking Basics | 🔄 Em progresso | — |
 | 3 | Networking Devices and Initial Configuration | ⏳ Pendente | — |
 | 4 | Endpoint Security | ⏳ Pendente | — |
