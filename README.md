@@ -116,13 +116,12 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 | Curso | Plataforma | Estado |
 |---|---|---|
-| [Cisco Introduction to Cybersecurity](./courses/cisco-intro-cybersecurity.md) | Cisco NetAcad | 🔄 Em progresso |
+| [Cisco Junior Cybersecurity Analyst](./courses/cisco-junior-cybersecurity-analyst.md) | Cisco NetAcad | 🔄 Em progresso (1/6 cursos) |
 | CS50 SQL | Harvard / edX | 📅 Planeado |
 | CS50 Cybersecurity | Harvard / edX | 📅 Planeado |
 | 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Planeado |
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
-
 ---
 
 ## 📝 CTF Writeups
