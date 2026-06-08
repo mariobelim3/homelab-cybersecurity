@@ -20,7 +20,7 @@ o **Junior Cybersecurity Analyst Career Path Exam**.
 ```
 Introduction to Cybersecurity ✅
         ↓
-Networking Basics
+Networking Basics ✅
         ↓
 Networking Devices and Initial Configuration
         ↓
@@ -40,7 +40,7 @@ Cyber Threat Management
 | # | Curso | Estado | Certificado |
 |---|---|---|---|
 | 1 | Introduction to Cybersecurity | ✅ Concluído | [Ver certificado](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) |
-| 2 | Networking Basics | 🔄 Em progresso | — |
+| 2 | Networking Basics |  ✅ Concluído |[Ver certificado]([https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url]) |
 | 3 | Networking Devices and Initial Configuration | ⏳ Pendente | — |
 | 4 | Endpoint Security | ⏳ Pendente | — |
 | 5 | Network Defense | ⏳ Pendente | — |
@@ -55,7 +55,7 @@ Cyber Threat Management
 Fundamentos da cibersegurança — tipos de ameaças, proteção de dados,
 privacidade e introdução às carreiras na área.
 
-### 2. Networking Basics
+### ✅ 2. Networking Basics
 Fundamentos de redes de computadores — como os dispositivos comunicam,
 protocolos, endereçamento IP e topologias de rede.
 
@@ -92,9 +92,4 @@ Exame final que valida todos os conhecimentos adquiridos nos
 
 ---
 
-## Notas e Aprendizagens
-
-*(a preencher ao longo dos cursos)*
-
----
 *Certificação disponível em: netacad.com*
