@@ -40,7 +40,7 @@ Cyber Threat Management
 | # | Curso | Estado | Certificado |
 |---|---|---|---|
 | 1 | Introduction to Cybersecurity | ✅ Concluído | [Ver certificado](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) |
-| 2 | Networking Basics |  ✅ Concluído |[Ver certificado]([https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url]) |
+| 2 | Networking Basics |  ✅ Concluído | [Ver certificado](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) |
 | 3 | Networking Devices and Initial Configuration | ⏳ Pendente | — |
 | 4 | Endpoint Security | ⏳ Pendente | — |
 | 5 | Network Defense | ⏳ Pendente | — |
