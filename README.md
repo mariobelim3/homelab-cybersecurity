@@ -1,12 +1,12 @@
 # 🛡️ Home Lab — Cibersegurança Red & Blue Team
 
-![Status](https://img.shields.io/badge/status-em%20progresso-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-completo-brightgreen?style=flat-square)
 ![Red Team](https://img.shields.io/badge/Red%20Team-Kali%20Linux-red?style=flat-square&logo=kalilinux&logoColor=white)
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-Wazuh%20SIEM-blue?style=flat-square)
 ![Virtualização](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-em%20progresso-red?style=flat-square&logo=tryhackme&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-blue?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-blue?style=flat-square&logo=cisco&logoColor=white)
 ![Licença](https://img.shields.io/badge/uso-pessoal%20%2F%20educacional-green?style=flat-square)
 
 > Repositório de documentação do meu home lab pessoal de cibersegurança.
@@ -69,8 +69,8 @@ homelab-cybersecurity/
 - [x] **Fase 6** — Deteção de ataques em tempo real + MITRE ATT&CK ✅
 - [x] **Fase 7** — Samba exploit + MySQL + Password Cracking ✅
 - [x] **Fase 8** — SQL Injection no DVWA ✅
-- [ ] **Fase 9** — Command Execution + XSS no DVWA
-- [x] **Fase 10** — Cisco Introduction to Cybersecurity ← *em progresso*
+- [x] **Fase 9** — Command Execution + XSS no DVWA ✅
+- [x] **Fase 10** — Cisco Junior Cybersecurity Analyst ← *em progresso*
 - [x] **Fase 11** — CTF Writeups (TryHackMe) ← *em progresso*
 
 ---
@@ -85,7 +85,9 @@ homelab-cybersecurity/
 | 04 | [Samba Usermap Script](./attacks/04-samba-exploit.md) | Metasploitable 2 | Root obtido | Abril 2026 |
 | 05 | [MySQL sem Password](./attacks/05-mysql-sem-password.md) | Metasploitable 2 | Dados extraídos | Abril 2026 |
 | 06 | [Password Cracking](./attacks/06-password-cracking.md) | Metasploitable 2 | 6 passwords quebradas | Abril 2026 |
-| 07 | [SQL Injection](./attacks/07-sql-injection.md) | DVWA / Metasploitable 2 | Base de dados extraída | Maio 2026 |
+| 07 | [SQL Injection](./attacks/07-sql-injection.md) | DVWA | Base de dados extraída | Maio 2026 |
+| 08 | [Command Execution](./attacks/08-command-execution.md) | DVWA | RCE no servidor web | Maio 2026 |
+| 09 | [XSS Reflected](./attacks/09-xss-reflected.md) | DVWA | Cookies de sessão roubados | Maio 2026 |
 
 ---
 
@@ -122,6 +124,7 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 | 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Planeado |
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
+
 ---
 
 ## 📝 CTF Writeups
@@ -143,11 +146,12 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 ---
 
-## 🏆 Badges TryHackMe
+## 🏆 Badges e Certificados
 
-| Badge | Descrição | Data |
+| Conquista | Plataforma | Data |
 |---|---|---|
-| First Four | Completar as primeiras 4 atividades | Abril 2026 |
+| First Four | TryHackMe | Abril 2026 |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) | Cisco NetAcad | Maio 2026 |
 
 ---
 
