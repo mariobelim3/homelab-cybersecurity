@@ -59,7 +59,7 @@ privacidade e introdução às carreiras na área.
 Fundamentos de redes de computadores — como os dispositivos comunicam,
 protocolos, endereçamento IP e topologias de rede.
 
-### 3. Networking Devices and Initial Configuration
+### ✅ 3. Networking Devices and Initial Configuration
 Configuração de dispositivos de rede — routers, switches, firewalls
 e configuração inicial de equipamentos Cisco.
 
