@@ -22,7 +22,7 @@ Introduction to Cybersecurity ✅
         ↓
 Networking Basics ✅
         ↓
-Networking Devices and Initial Configuration
+Networking Devices and Initial Configuration ✅
         ↓
 Endpoint Security
         ↓
@@ -41,7 +41,7 @@ Cyber Threat Management
 |---|---|---|---|
 | 1 | Introduction to Cybersecurity | ✅ Concluído | [Ver certificado](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) |
 | 2 | Networking Basics |  ✅ Concluído | [Ver certificado](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) |
-| 3 | Networking Devices and Initial Configuration | ⏳ Pendente | — |
+| 3 | Networking Devices and Initial Configuration | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/940c7524-c341-48a9-b83d-1f0b3d888eff/public_url)|
 | 4 | Endpoint Security | ⏳ Pendente | — |
 | 5 | Network Defense | ⏳ Pendente | — |
 | 6 | Cyber Threat Management | ⏳ Pendente | — |
