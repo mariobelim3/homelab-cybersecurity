@@ -26,11 +26,11 @@ Networking Devices and Initial Configuration ✅
         ↓
 Endpoint Security ✅
         ↓
-Network Defense
+Network Defense ✅
         ↓
-Cyber Threat Management
+Cyber Threat Management ✅
         ↓
-🏆 Junior Cybersecurity Analyst Career Path Exam
+🏆 Junior Cybersecurity Analyst Career Path Exam ✅
 ```
 
 ---
@@ -43,9 +43,9 @@ Cyber Threat Management
 | 2 | Networking Basics |  ✅ Concluído | [Ver certificado](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) |
 | 3 | Networking Devices and Initial Configuration | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/940c7524-c341-48a9-b83d-1f0b3d888eff/public_url)|
 | 4 | Endpoint Security | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/89fd6a22-5d5e-4f1f-b93d-39be3e094715/public_url) |
-| 5 | Network Defense | ⏳ Pendente | — |
-| 6 | Cyber Threat Management | ⏳ Pendente | — |
-| 🏆 | Junior Cybersecurity Analyst Career Path Exam | ⏳ Pendente | — |
+| 5 | Network Defense | ✅ Concluído |[Ver certificado]|
+| 6 | Cyber Threat Management | ✅ Concluído |[Ver certificado]|
+| 🏆 | Junior Cybersecurity Analyst Career Path Exam | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/7418acf2-d718-4273-80eb-aeefdcdb09d7/public_url) |
 
 ---
 
@@ -67,15 +67,15 @@ e configuração inicial de equipamentos Cisco.
 Segurança de endpoints — proteção de dispositivos individuais,
 antivírus, deteção de ameaças e resposta em endpoints.
 
-### 5. Network Defense
+### ✅ 5. Network Defense
 Defesa de redes — firewalls, IDS/IPS, VPNs, monitorização
 de tráfego e estratégias de defesa em profundidade.
 
-### 6. Cyber Threat Management
+### ✅ 6. Cyber Threat Management
 Gestão de ameaças — análise de vulnerabilidades, gestão de incidentes,
 threat intelligence e frameworks de segurança.
 
-### 🏆 Junior Cybersecurity Analyst Career Path Exam
+### ✅ 🏆 Junior Cybersecurity Analyst Career Path Exam
 Exame final que valida todos os conhecimentos adquiridos nos
 6 cursos anteriores e certifica o título de Junior Cybersecurity Analyst.
 
