@@ -70,8 +70,7 @@ homelab-cybersecurity/
 - [x] **Fase 7** — Samba exploit + MySQL + Password Cracking ✅
 - [x] **Fase 8** — SQL Injection no DVWA ✅
 - [x] **Fase 9** — Command Execution + XSS no DVWA ✅
-- [x] **Fase 10** — Cisco Junior Cybersecurity Analyst ← *em progresso*
-- [x] **Fase 11** — CTF Writeups (TryHackMe) ← *em progresso*
+- [x] **Fase 10** — Cisco Junior Cybersecurity Analyst ← *concluído* ✅
 
 ---
 
@@ -118,10 +117,10 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 | Curso | Plataforma | Estado |
 |---|---|---|
-| [Cisco Junior Cybersecurity Analyst](./courses/cisco-junior-cybersecurity-analyst.md) | Cisco NetAcad | 🔄 Em progresso (4/6 cursos) |
+| [Cisco Junior Cybersecurity Analyst](./courses/cisco-junior-cybersecurity-analyst.md) | Cisco NetAcad | ✅ Concluído (6/6 cursos) |
 | CS50 SQL | Harvard / edX | 📅 Planeado |
 | CS50 Cybersecurity | Harvard / edX | 📅 Planeado |
-| 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Planeado |
+| 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Em curso |
 
 - 🎓 Licenciatura em Engenharia Informática — Universidade da Madeira *(em curso)*
 
