@@ -151,7 +151,10 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 |---|---|---|
 | First Four | TryHackMe | Abril 2026 |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/df3c1a98-ba27-4dae-8874-18edb90c7373/public_url) | Cisco NetAcad | Maio 2026 |
-
+| [Networking Basics](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) | Cisco NetAcad | Junho 2026 |
+| [Networking Basics](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) | Cisco NetAcad | Junho 2026 |
+| [Networking Basics](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) | Cisco NetAcad | Junho 2026 |
+| [Networking Basics](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) | Cisco NetAcad | Junho 2026 |
 ---
 
 ## 🎯 Objetivo
