@@ -154,7 +154,9 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 | [Networking Basics](https://www.credly.com/badges/bb1f3193-2dda-41fb-8e9f-612f59d70ea9/public_url) | Cisco NetAcad | Junho 2026 |
 | [Networking Devices and Initial Configuration](https://www.credly.com/badges/940c7524-c341-48a9-b83d-1f0b3d888eff/public_url) | Cisco NetAcad | Junho 2026 |
 | [Endpoint Security](https://www.credly.com/badges/89fd6a22-5d5e-4f1f-b93d-39be3e094715/public_url) | Cisco NetAcad | Junho 2026 |
-
+| [Network Defense](https://www.credly.com/badges/5dd7f836-ca26-46b6-9643-edaeaeb5874d/public_url) | Cisco NetAcad | Junho 2026 |
+| Cisco NetAcad | Junho 2026 |
+| Cisco NetAcad | Junho 2026 |
 ---
 
 ## 🎯 Objetivo
