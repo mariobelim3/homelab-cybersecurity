@@ -44,7 +44,7 @@ Cyber Threat Management ✅
 | 3 | Networking Devices and Initial Configuration | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/940c7524-c341-48a9-b83d-1f0b3d888eff/public_url)|
 | 4 | Endpoint Security | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/89fd6a22-5d5e-4f1f-b93d-39be3e094715/public_url) |
 | 5 | Network Defense | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/5dd7f836-ca26-46b6-9643-edaeaeb5874d/public_url)|
-| 6 | Cyber Threat Management | ✅ Concluído |[Ver certificado]|
+| 6 | Cyber Threat Management | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/2ce30a48-2474-49d6-8403-ec2f36e3003f/public_url)|
 | 🏆 | Junior Cybersecurity Analyst Career Path Exam | ✅ Concluído |[Ver certificado](https://www.credly.com/badges/7418acf2-d718-4273-80eb-aeefdcdb09d7/public_url) |
 
 ---
