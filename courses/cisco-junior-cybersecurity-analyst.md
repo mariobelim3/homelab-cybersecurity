@@ -1,7 +1,7 @@
 # Cisco — Junior Cybersecurity Analyst Career Path
 
 ![Plataforma](https://img.shields.io/badge/plataforma-Cisco%20NetAcad-blue?style=flat-square&logo=cisco&logoColor=white)
-![Estado](https://img.shields.io/badge/estado-em%20concluído-green?style=flat-square)
+![Estado](https://img.shields.io/badge/estado-%20concluído-brightgreen?style=flat-square)
 ![Certificação](https://img.shields.io/badge/certificação-Junior%20Cybersecurity%20Analyst-brightgreen?style=flat-square)
 
 ## Sobre a Certificação
