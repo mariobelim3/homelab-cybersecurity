@@ -117,7 +117,7 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 
 | Curso | Plataforma | Estado |
 |---|---|---|
-| [Cisco Junior Cybersecurity Analyst](./courses/cisco-junior-cybersecurity-analyst.md) | Cisco NetAcad | ✅ Concluído (6/6 cursos) |
+| [Cisco Junior Cybersecurity Analyst](./courses/cisco-junior-cybersecurity-analyst.md) | Cisco NetAcad | ✅ Concluído (6/6 módulos) |
 | CS50 SQL | Harvard / edX | 📅 Planeado |
 | CS50 Cybersecurity | Harvard / edX | 📅 Planeado |
 | 💼 Estágio IA.SAÚDE | IA.SAÚDE | 📅 Em curso |
@@ -158,6 +158,7 @@ Técnicas detetadas pelo Wazuh e mapeadas para o MITRE ATT&CK:
 | [Cyber Threat Management](https://www.credly.com/badges/2ce30a48-2474-49d6-8403-ec2f36e3003f/public_url) | Cisco NetAcad | Junho 2026 |
 | [Cyber Threat Management](https://www.credly.com/badges/2ce30a48-2474-49d6-8403-ec2f36e3003f/public_url) | Cisco NetAcad | Junho 2026 |
 | 🏆 [Junior Cybersecurity Analyst Career Path Exam](https://www.credly.com/badges/7418acf2-d718-4273-80eb-aeefdcdb09d7/public_url) | Cisco NetAcad | Junho 2026 |
+| 🏆 [Ethical Hacker](https://www.credly.com/badges/322f2d5c-a961-4ff7-b1fe-c9366cf09c43/public_url) | Cisco Netcad | Agosto 2026|
 ---
 
 ## 🎯 Objetivo
